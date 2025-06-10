@@ -43,4 +43,4 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-[def1]: photos/firstpage.jpg
+[def1]: photos/FirstPage.jpg

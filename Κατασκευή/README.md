@@ -5,7 +5,7 @@
 
 ## Στάδια κατασκευής
 
-
+![keyboard][def5]
 
 [Αρχική Σελίδα](../README.md)
 
@@ -27,3 +27,5 @@
 [def2]: ../photos/buttons.jpg
 [def3]: ../photos/lcd16x2.jpg
 [def4]: ../photos/resistor.jpg
+[def5]: ../photos/kataskevi1.mp4
+

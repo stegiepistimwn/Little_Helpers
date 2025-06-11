@@ -5,7 +5,8 @@
 
 ## Στάδια κατασκευής
 
-![![keyboard](../photos/kataskevi1.png)][def5]
+[![!keyboard](../photos/kataskevi1.png)][def5]
+
 
 [Αρχική Σελίδα](../README.md)
 

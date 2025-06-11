@@ -27,5 +27,5 @@
 [def2]: ../photos/buttons.jpg
 [def3]: ../photos/lcd16x2.jpg
 [def4]: ../photos/resistor.jpg
-[def5]: ../photos/kataskevi1.mp4
+[def5]: https://youtu.be/bNDbLDQcJGg
 
